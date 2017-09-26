@@ -1,11 +1,6 @@
-=== Site Blackout ===
-Contributors: eagerterrier, djcp
-Tags: activism, blackout, 503
-Requires at least: 2.5
-Tested up to: 3.3.1
 Stable tag: trunk
 
-Adds temporary 503 status and customisable page on your site to automatically black it out.
+Adds temporary 503 status and customisable page on your site to automatically black it out. For #stojimuzvranjske
 
 == Description ==
 
@@ -31,7 +26,10 @@ Heavily borrowing from the "Sopa Blackout" plugin. See: http://blog.eagerterrier
 
 
 == Frequently Asked Questions ==
-
 = I can't see my timezone listed. What do I do? =
 
 The timezone option is to be used if you wish to co-ordinate with the US blackout. If you want your site to be blacked out 8am-8pm in your own timezone, leave the timezone option blank.
+
+= Where can I get support? =
+
+Contact me on urosldp@ubunu.com
